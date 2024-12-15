@@ -1,0 +1,1 @@
+This repository demonstrates a common error in 16-bit real-mode assembly programming: attempting to access memory addresses above the 1MB limit without proper segmentation. The `bug.asm` file contains code that causes this error, and `bugSolution.asm` provides a corrected version.
